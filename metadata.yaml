@@ -1,0 +1,29 @@
+_repo: Mangorin-kokkikirja-Jutelma-korkeimman-diplomatian-alalta_68851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Etlar, Carit
+    aliases:
+    - Brosbøll, Johan Carl Christian
+    - Brosboll, Johan Carl Christian
+    birthdate: 1816
+    deathdate: 1900
+    gutenberg_agent_id: '31996'
+    url: http://www.gutenberg.org/2009/agents/31996
+description: ''
+gutenberg_issued: '2022-08-27'
+identifiers:
+  gutenberg: '68851'
+language: fi
+pgterms:marc905: 20210605071947etlas
+pgterms:marc906: '1894'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :N. N.,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mangorin kokkikirja: Jutelma korkeimman diplomatian alalta'
+url: http://www.gutenberg.org/ebooks/68851
